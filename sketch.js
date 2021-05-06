@@ -47,8 +47,6 @@ function draw() {
      game.end();
    }
 
-   player1.x = mouseX;
-   player2.x = mouseX;
 
 }
 
